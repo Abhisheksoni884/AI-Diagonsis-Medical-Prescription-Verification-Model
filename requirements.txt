@@ -1,0 +1,7 @@
+streamlit
+dotenv
+langchain_core
+langchain
+langchain_groq
+pytesseract==0.3.10
+pillow
